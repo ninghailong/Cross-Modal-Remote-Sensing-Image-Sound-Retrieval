@@ -6,7 +6,7 @@ This repository is for the research of cross-modal remote sensing image-sound re
 
 百度网盘：https://pan.baidu.com/s/1gR-9MKxFtjSCTamj67_DQw 提取码：81cr
 
-# Related Paper:
+# If our dataset is helpful to you, please kindly cite related papers as follows:
 
 [1] Mao G, Yuan Y, Xiaoqiang L. Deep cross-modal retrieval for remote sensing image and audio[C]//2018 10th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS). IEEE, 2018: 1-7.
 
