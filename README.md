@@ -2,13 +2,13 @@
 
 This repository is for the research of cross-modal remote sensing image-sound retrieval.
 
-We develop three 
+We construct three datasets about cross-modal remote sensing image-sound retrieval, including Sydney image-sound dfataset, UCM image-sound dfataset, and RSICD image-sound dfataset. Descriptions about them are as follows:
 
-\subsubsection{\textbf{Sydney Image-Voice Dataset \cite{8486338}}} The Sydney image-voice (Sydney IV) dataset contains 613 RS images and 3065 voices of 7 classes, where each image corresponds to five different voices. In this paper, we follow the previous works \cite{8896932, chen2019a, 9044618}, and randomly sample a voice from the five voices for each image to construct RS image-voice pairs. As for the data partitioning, 80\% RS image-voice pairs are randomly selected for training, and the rest 20\% are selected for testing.
+**Sydney Image-Sound Dataset**: The Sydney image-sound dataset contains 613 remote sensing images and 3065 sounds of 7 classes, where each image corresponds to five different sounds.
 
-\subsubsection{\textbf{UCM Image-Voice Dataset \cite{8486338}}} The UCM image-voice (UCM IV) dataset includes 2100 RS images and 10500 voices, where each image corresponds to five different voices. Note that the dataset can be divided into 21 classes, where each class includes 100 images and 500 voices. In this paper, we follow the previous works \cite{8896932, chen2019a, 9044618}, and randomly sample a voice from the five voices for each image to construct RS image-voice pairs. As for the data partitioning, 80\% RS image-voice pairs are randomly selected as training set, and the rest 20\% are selected as testing set.
+**UCM Image-Sound Dataset**: The UCM image-sound dataset includes 2100 remote sensing images and 10500 sounds, where each image corresponds to five different sounds. Note that the dataset can be divided into 21 classes, where each class includes 100 images and 500 sounds. 
 
-\subsubsection{\textbf{RSICD Image-Voice Dataset \cite{8486338}}} The RSICD image-voice (RSICD IV) dataset involves 10921 RS images and 54605 voices of 30 classes, where each image corresponds to five different voices. In this paper, we follow the previous works \cite{8896932, chen2019a, 9044618}, and randomly sample a voice from the five voices for each image to construct RS image-voice pairs. As for the data partitioning, 80\% RS image-voice pairs are randomly selected for training, and the rest 20\% are selected for testing.
+**RSICD Image-Sound Dataset**: The RSICD image-sound dataset involves 10921 remote sensing images and 54605 sounds of 30 classes, where each image corresponds to five different sounds.
 
 # Datatset:
 
